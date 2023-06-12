@@ -104,6 +104,7 @@ int main()
 }
 
 ## Output:
+![pca(ex5)](https://github.com/Naveensrinivasan07/-PCA-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time./assets/119475891/9f961829-f44c-4f57-a572-a77e10e16058)
 
 ## Result:
 The implementation of Matrix Multiplication using GPU is done successfully.
